@@ -5,7 +5,7 @@ Step 1: Composeer update
 ------------------------------
 
 ```bash
-$ php composer.update update
+$ php composer update update
 ```
 
 Step 2: Yii init
