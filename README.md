@@ -52,3 +52,13 @@ environments/            contains environment-based overrides
 tests                    contains various tests for the advanced application
     codeception/         contains tests developed with Codeception PHP Testing Framework
 ```
+
+## Pages
+```bash
+../backend\web/ - ToDo service
+../frontend\web/ - Registration
+```
+
+## Documentation
+
+[Installation instructions](docs/installation.md)
